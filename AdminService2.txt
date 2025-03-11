@@ -1,4 +1,5 @@
-Admin2 Can Add User and Delete Use
+
 Add another feature
 Add one more user in database
 
+Admin2 Can Add User and Delete User
